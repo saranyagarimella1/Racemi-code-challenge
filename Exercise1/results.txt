@@ -1,0 +1,6 @@
+color of motorCycle is : red
+No.of wheels in a motorCycle: 2
+color of skateBoard is : yellow
+No.of wheels in a skateBoard: 4
+color of car is : blue
+No.of wheels in a car: 4
